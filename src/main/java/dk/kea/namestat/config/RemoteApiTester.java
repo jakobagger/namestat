@@ -102,8 +102,8 @@ import java.util.stream.Collectors;
             //System.out.println(randomStr);
             //callEndpointBlocking();
             //callSlowEndpointNonBlocking();
-            getGendersBlocking();
-            getGendersNonBlocking();
+            //getGendersBlocking();
+            //getGendersNonBlocking();
         }
     }
 
